@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+.DS_Store
+.idea
+.vscode/*
+!/.vscode/tasks.json
+*.pyc
+__pycache__/
+
+cmake-build-canvas
+cmake-build-test
